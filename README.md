@@ -43,20 +43,20 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br><br>
 https://www.w3schools.com/
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) <br><br>
 A  challenge that I encountered in creating this submission was the understanding of the functions being used and overall understanding how Javascript is used. To overcome it,
 I began by reading what each of the functions entailed in the pre-work tabs that were provided and then went to other resources (i.e. w3schools) to further understand the 
 usages of functions and the built-in libraries of Java. Additionally, another thing that I found tricky was the syntax of Java, as it is a little different from what I 
 am used to. However, using what was given and other resources helped resolve those issues as well. 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br><br>
 One question I have is: How could one make a website more interactive (adding a chat box, the option to call)? 
 How can we use HTML/CSS/JS to make more involved (higher graphics, better designs) games?
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br><br>
 If I had a few more hours to work on this project, I would most likely mess around with the number of squares as the user progresses further into the game (increases the 
 amount of "levels'' there are) and also increase the pace of the game as well. As the user progresses further and further into the game, there would be an increased pace in addition to more squares that they would need to keep track of.  I would also mess around with the frequency sounds as well (maybe adding in different sounds instead of general frequencies). 
 
