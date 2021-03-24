@@ -94,7 +94,7 @@ function playClueSequence() {
 
 function loseGame(){
   stopGame();
-  alert("Game Over. You lost! Boo! There's always next year!");
+  alert("Game Over. You lost! Boo!");
 }
 
 function winGame(){
